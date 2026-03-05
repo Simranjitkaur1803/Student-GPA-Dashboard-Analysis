@@ -30,7 +30,7 @@ The Tableau dashboard visualizes:
 - Regional performance
 - Top performing products
 
-![Student GPA Dashboard](student_gpa_dashboard.png)
+![Student GPA Dashboard](Student GPA and Demographics Overview (1).png)
 
 ## Key Insights
 - A small number of products contribute to a large portion of revenue.
