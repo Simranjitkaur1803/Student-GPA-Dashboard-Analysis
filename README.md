@@ -1,4 +1,4 @@
-# Retail Sales Dashboard Analysis
+# Student-GPA-Dashboard-Analysis
 
 ## Project Overview
 This project analyzes retail sales data to understand revenue trends, product performance, and regional sales distribution.  
