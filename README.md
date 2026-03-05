@@ -22,6 +22,7 @@ The dataset was cleaned and prepared using Excel:
 - Created calculated fields for revenue and profit analysis
 
 ## Dashboard
+
 The Tableau dashboard visualizes:
 
 - Sales by product category
@@ -29,7 +30,7 @@ The Tableau dashboard visualizes:
 - Regional performance
 - Top performing products
 
-(Screenshot of dashboard will be added here)
+![Student GPA Dashboard](Student GPA and Demographics Overview (1).png)
 
 ## Key Insights
 - A small number of products contribute to a large portion of revenue.
